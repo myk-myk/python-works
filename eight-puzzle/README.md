@@ -1,5 +1,5 @@
 # eight-puzzle
-My implementation of an eight puzzle problem made with Python using different algorithms.                
+My implementation of an eight puzzle problem made with *Python* using different algorithms.                
 Python version: *3.9.7*.            
 Input and output menus in programs are in the *Ukrainian* language.               
 Class **'Tree'** is used for *building a search tree* and for *measuring the depth* of every state.             
